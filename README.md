@@ -50,7 +50,7 @@ The project maintains code quality through automated checks that run on every pu
 
 1. **Linting**
    - Runs ESLint to check code style and quality
-   - Command: `npm run  lint`
+   - Command: `npm run lint`
 
 2. **Dependencies**
    - Uses `npm ci` for deterministic installations
